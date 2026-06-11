@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+statsmodels
+yfinance
+jupyter
+backtesting
+vectorbt
+arch
+scikit-learn
+xgboost
+streamlit
