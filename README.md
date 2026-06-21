@@ -13,7 +13,7 @@ My 6-month structured journey from biomedical signal processing (M.Sc. research 
 | # | Project | Topic | Status |
 |---|---------|-------|--------|
 | 01 | [Factor Analysis](01-factor-analysis/) | CAPM / Fama-French regression | 🔜 Planned |
-| 02 | [Quant EDA + Hurst](02-quant-eda-hurst/) | Stylized facts, DFA → Hurst exponent | 🔜 Planned |
+| 02 | [Quant EDA + Hurst](02-quant-eda-hurst/) | Stylized facts, DFA → Hurst exponent |  ✅  |
 | 03 | [Portfolio Optimizer](03-portfolio-optimizer/) | Markowitz, max-Sharpe (Streamlit app) | 🔜 Planned |
 | 04 | [Monte Carlo Risk](04-monte-carlo-risk/) | Equity simulation, Kelly sizing | 🔜 Planned |
 | 05 | [Backtesting Engine](05-backtesting-engine/) | backtesting.py, full metrics report | 🔜 Planned |
