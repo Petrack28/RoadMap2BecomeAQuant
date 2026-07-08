@@ -12,3 +12,4 @@ Daily log of my 2-hour classes with Claude as professor. One line per class keep
 | 6 | 2026-06-15 | Semana 6 (cont.) | Volatilidad histórica/rolling/anualizada, COVID spike, whipsaw, EWMA | 3Blue1Brown ep.6, EWMA comparación | ✅ |
 | 7 | 2026-06-16 | Semana 7 | Markowitz, frontera eficiente, bug orden de tickers, GMV vs máx Sharpe | 3Blue1Brown ep.7, Green Book Cap.2 x2 | ✅ |
 | 8 | 2026-06-17 | Semana 7 (cont.) | VaR Normal/t-Student/Histórico, 95% vs 99%, CVaR/Expected Shortfall | Cerrar Proyecto 3 con Streamlit | ⬜ |
+| Semana 9 | 2026-XX-XX | Cruce medias moviles desde cero, lookahead bias, multiple testing problem, prueba en 5 activos (AAPL/MSFT/EURUSD/GBPUSD/Oro) | Green Book Cap.2 x2, repetir en 2 activos mas | ✅ |
