@@ -37,3 +37,38 @@
 - Score de mental math registrado ≥ 3 veces
 - Deudas técnicas: al menos 2 de 3 saldadas
 - Código de ejercicios centrales escrito primero por mí en ≥ 80% de los casos
+
+
+## 6. Línea de investigación de trading personal (integrada, no paralela)
+
+> Acordado en Semana 10-11. Las hipótesis de trading propias se convierten en
+> los vehículos de los proyectos del roadmap — sin alterar su estructura.
+
+### Hipótesis a investigar
+1. **London Breakout (EUR/USD):** la ruptura del rango de la sesión asiática
+   al abrir Londres tiene continuación estadísticamente significativa.
+   Fundamento: concentración documentada de liquidez/volatilidad en el
+   overlap Londres-NY.
+2. **IFVG / Fair Value Gaps (concepto ICT operacionalizado):** definir el
+   FVG con reglas 100% geométricas y objetivas (gap entre high de vela 1
+   y low de vela 3) y testear si su relleno/inversión tiene edge medible.
+   Sin ambigüedad interpretativa: si una regla no se puede codificar, no
+   entra al test.
+
+### Integración con el roadmap
+| Semana | Proyecto | Vehículo |
+|---|---|---|
+| 11 | Proyecto 6 (Pine Script) | London Breakout en EUR/USD |
+| 12 | Proyecto 7 (Walk-forward) | Validación de Breakout + IFVG |
+| 22 | Proyecto 12 (Paper trading) | Lo que sobreviva la validación → ruta prop firm |
+
+### Reglas de protección del roadmap
+- Las semanas 13-21 (GARCH, pairs trading, opciones, ML, C++) NO se saltan
+  ni se posponen por perseguir estrategias — son la formación que diferencia
+  a un quant de un trader retail con backtests.
+- Criterio de honestidad: si una hipótesis no sobrevive la validación de la
+  Semana 12 (significancia, costos, out-of-sample), se documenta como
+  resultado negativo en el portafolio y NO se opera. Un resultado negativo
+  bien documentado es un proyecto válido.
+- Nada de dinero real durante el roadmap. La ruta es: validación → paper
+  trading (Sem. 22) → evaluación de prop firm solo con evidencia acumulada.
